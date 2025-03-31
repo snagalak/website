@@ -8,7 +8,7 @@ const gabarito = Gabarito({
 export default function Navbar() {
   return (
     <nav className="fixed top-0 left-0 w-full bg-[#313131] text-black z-50">
-      <div className="flex justify-between items-center max-w-7xl mx-auto">
+      <div className="flex justify-between items-center max-w-7xl mx-auto px-4">
       <div className={`text-[40px] text-white`}>sn.</div>
       <div className="space-x-4 text-white">
           <a href="#home" className={`hover:text-gray-400 ${gabarito.className}`}>Home</a>
