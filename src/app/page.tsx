@@ -16,7 +16,7 @@ export default function Home() {
       >
         <Navbar />
         <main className="flex flex-col row-start-2 items-center justify-center text-center pr-6">
-          <div className="block h-[22vh] lg:h-[15vh]  xl:h-[9vh] 2xl:h-[10vh] md:h-[15vh]"></div>
+          <div className="block h-[15vh] lg:h-[15vh]  xl:h-[9vh] 2xl:h-[10vh] md:h-[15vh]"></div>
 
           <div className="text-[80px] xl:text-[130px] 2xl:text-[130px] lg:text-[130px] sm:text-[80px] sm:px-30">
             sravya.
