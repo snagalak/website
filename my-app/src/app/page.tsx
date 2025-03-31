@@ -202,7 +202,7 @@ export default function Home() {
             </section>
           </div>
           <div className="hidden lg:block h-[3vh]"></div>
-          <section className="lg:px-20 xl:px-20 2xl:px-20 px-6 mt-20 text-left flex flex-col lg:grid lg:grid-cols-2 gap-0 sm:gap-16 md:gap-16 lg:gap-16 xl:gap-16 2xl:gap-16">
+          <section className="lg:px-20 xl:px-20 2xl:px-20 px-6 mt-20 text-left flex flex-col lg:grid lg:grid-cols-2 gap-0 sm:gap-16 md:gap-16 lg:gap-55 xl:gap-55 2xl:gap-55">
             <div>
               <h2 className="text-[40px] sm:text-[50px] lg:text-[74px] mb-4">
                 leadership.
