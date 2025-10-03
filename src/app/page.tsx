@@ -33,7 +33,7 @@ export default function Home() {
                         ><u>Slack</u></a>, <a href="https://www.developforgood.org/" target="_blank"
                         rel="noopener noreferrer"
                         className="hover:text-[#D9D9D9]"
-                      ><u>Develop For Good</u></a>,<a href="https://nolimitlivingllc.com/" target="_blank"
+                      ><u>Develop For Good</u></a>, <a href="https://nolimitlivingllc.com/" target="_blank"
                       rel="noopener noreferrer"
                       className="hover:text-[#D9D9D9]"
                     ><u>No Limit Living</u></a>.
